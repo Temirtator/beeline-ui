@@ -5,7 +5,7 @@ I've created this module for using beeline design system in a more comfort way, 
 
 [![npm](https://img.shields.io/npm/v/@temirtator/beeline-ui)](https://www.npmjs.com/package/@temirtator/beeline-ui)
 [![npm](https://img.shields.io/npm/dt/@temirtator/beeline-ui)](https://www.npmjs.com/package/@temirtator/beeline-ui)
-![NPM](https://img.shields.io/npm/l/@temirtator/beeline-ui)
+[![NPM](https://img.shields.io/npm/l/@temirtator/beeline-ui)](https://choosealicense.com/licenses/gpl-3.0/)
 
 ## Installation
 
