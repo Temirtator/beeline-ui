@@ -12,13 +12,21 @@ I've created this module for using beeline design system in a more comfort way, 
 Use the package manager [npm](https://npmjs.com/) to install package.
 
 ```
-updating...
+npm install @temirtator/beeline-ui
 ```
 
 ## Usage
 
 ```
-updating...
+const removeSpaces = require("@temirtator/beeline-ui");
+
+removeSpaces("So much space!");
+//=> "Somuchspace!"
+
+removeSpaces(1337);
+//=> Uncaught TypeError: Function wants a string!
+//    at removeSpaces (<anonymous>:2:41)
+//    at <anonymous>:1:1
 ```
 
 
