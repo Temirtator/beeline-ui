@@ -3,7 +3,9 @@
 
 I've created this module for using beeline design system in a more comfort way, also this module can help to other React Native developers to build their UI.
 
-![npm](https://img.shields.io/npm/v/@temirtator/beeline-ui) ![npm](https://img.shields.io/npm/dt/@temirtator/beeline-ui) ![NPM](https://img.shields.io/npm/l/@temirtator/beeline-ui)
+[![npm](https://img.shields.io/npm/v/@temirtator/beeline-ui)](https://www.npmjs.com/package/@temirtator/beeline-ui)
+[![npm](https://img.shields.io/npm/dt/@temirtator/beeline-ui)](https://www.npmjs.com/package/@temirtator/beeline-ui)
+![NPM](https://img.shields.io/npm/l/@temirtator/beeline-ui)
 
 ## Installation
 
